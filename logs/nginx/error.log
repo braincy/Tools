@@ -1,0 +1,13 @@
+2019/03/14 12:12:51 [emerg] 29054#0: unknown log format "main" in /Tools/server/nginx-1.14.2/nginx.conf:18
+2019/03/14 12:15:19 [emerg] 29078#0: unknown log format "main" in /Tools/server/nginx-1.14.2/nginx.conf:18
+2019/03/14 12:16:55 [emerg] 29084#0: "log_format" directive is not allowed here in /Tools/server/nginx-1.14.2/nginx.conf:11
+2019/03/14 12:17:43 [emerg] 29090#0: open() "/Tools/logs/nginx/access/default.log" failed (2: No such file or directory)
+2019/03/14 12:17:56 [emerg] 29093#0: open() "/Tools/logs/nginx/error/default.log" failed (2: No such file or directory)
+2019/03/14 12:18:23 [emerg] 29102#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2019/03/14 12:18:23 [emerg] 29102#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2019/03/14 12:18:23 [emerg] 29102#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2019/03/14 12:18:23 [emerg] 29102#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2019/03/14 14:07:21 [emerg] 19662#0: open() "/Tools/server/nginx-1.14.2/../../../../server/nginx-1.14.2/conf.d/rewrite/default.conf" failed (2: No such file or directory) in /Tools/server/nginx-1.14.2/../../server/nginx-1.14.2/conf.d/vhosts/default.conf:15
+2019/03/14 14:09:32 [emerg] 19680#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2019/03/14 14:09:32 [emerg] 19680#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
+2019/03/14 14:09:32 [emerg] 19680#0: bind() to 0.0.0.0:80 failed (98: Address already in use)
